@@ -2,15 +2,15 @@ let score = 90;
 let result;
 
 if (score >= 90) {
-  result = "Selamat anda mendapat nilai A";
+  result = "Selamat Anda Mendapat Nilai A";
 } else if (score >= 80 && score <= 89) {
-  result = "Anda mendapat nilai B";
+  result = "Anda mendapat Nilai B";
 } else if (score >= 70 && score <= 79) {
-  result = "Anda mendapat nilai C";
+  result = "Anda mendapat Nilai C";
 } else if (score >= 60 && score <= 69) {
-  result = "Anda mendapat nilai D";
+  result = "Anda mendapat Nilai D";
 } else {
-  result = "Anda mendapat nilai E";
+  result = "Anda mendapat Nilai E";
 }
 
 console.log(result);
