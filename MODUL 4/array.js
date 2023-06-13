@@ -6,4 +6,4 @@ console.log(myArray[3]);
 console.log(myArray[4]);
 console.log(myArray[5]);
 
-console.log("Panjang Nilai myArray adalah : " + myArray + ".");
+console.log("Panjang Nilai myArray adalah : " + myArray.length + ".");
