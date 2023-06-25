@@ -5,5 +5,6 @@ function minimal(a, b) {
     return b;
   }
 }
-console.log(minimal(5, 10));
-console.log(minimal(15, 1));
+console.log("nilai 1 = ", minimal(5, 10));
+console.log("nilai 2 = ", minimal(15, 1));
+console.log("nilai 3 = ", minimal(2, 2));
