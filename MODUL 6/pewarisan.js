@@ -35,5 +35,6 @@ EmailService.prototype.sendDelayedMessage = function (message, receiver, delay) 
 const WhatsApp = new WhatsAppService("+6283852167611");
 const email = new EmailService("dhanirhama2001@gmail.com");
 WhatsApp.sendMessage("Hello", "+6287766651861");
+WhatsApp.sendBroadcastMessage("Hello", ["+6285850323098", "+6282234567890"]);
 email.sendMessage("Hello", "dhanirhama1987@gmail.com");
 email.sendDelayedMessage("Hello", "dhanirhama1987@gmail.com", 3000);
