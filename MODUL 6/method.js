@@ -11,20 +11,20 @@ class Car {
   }
 
   set chassisNumber(chassisNumber) {
-    console.log("You are not allowed to change the chassis number");
+    console.log("Anda tidak diperbolehkan untuk mengubah Nomor Rangka");
   }
 
   // method
   drive() {
-    console.log(`${this.brand} ${this.color} is driving`);
+    console.log(`${this.brand} ${this.color} Sedang Mengemudi`);
   }
 
   reverse() {
-    console.log(`${this.brand} ${this.color} is reversing`);
+    console.log(`${this.brand} ${this.color} Sedang Berputar`);
   }
 
   turn(direction) {
-    console.log(`${this.brand} ${this.color} is turning ${direction}`);
+    console.log(`${this.brand} ${this.color} Sedang Mengemudi ${direction}`);
   }
 
   _generateChassisNumber() {
@@ -34,6 +34,6 @@ class Car {
 
 const car = new Car("BMW", "Red", 200);
 console.log(car._chassisNumber);
-car.chassisNumber = "BMW-1";
+car._chassisNumber = "BMW-1";
 console.log(car.chassisNumber);
 console.log(car._generateChassisNumber());

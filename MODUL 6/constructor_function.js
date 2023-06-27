@@ -5,13 +5,13 @@ function Car(brand, color, maxSpeed, chassisNumber) {
   this.chassisNumber = chassisNumber;
 }
 Car.prototype.drive = function () {
-  console.log(`${this.brand} ${this.color} is Drivving`);
+  console.log(`${this.brand} ${this.color} Sedang Mengemudi`);
 };
 Car.prototype.reverse = function () {
-  console.log(`${this.brand} ${this.color} is Reversing`);
+  console.log(`${this.brand} ${this.color} Sedang Berputar`);
 };
 Car.prototype.turn = function () {
-  console.log(`${this.brand} ${this.color} is Turning`);
+  console.log(`${this.brand} ${this.color} Sedang Berbelok`);
 };
 // membuat objek mobil dengan function car
 const car1 = new Car("Toyota", "Silver", 200, "to-1");
