@@ -25,3 +25,7 @@ console.log(car3);
 car1.drive();
 car2.drive();
 car3.drive();
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

@@ -37,3 +37,7 @@ console.log(car._chassisNumber);
 car._chassisNumber = "BMW-1";
 console.log(car.chassisNumber);
 console.log(car._generateChassisNumber());
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

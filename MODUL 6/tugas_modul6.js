@@ -77,3 +77,7 @@ console.log("Umur Elang", myEagle.age);
 console.log("Hewan Mamalia", myEagle.isMammal);
 console.log("Kegiatan", myEagle.fly());
 console.log("------------------------------------------------");
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

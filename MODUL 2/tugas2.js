@@ -13,3 +13,7 @@ console.log("Umur: " + age);
 console.log("Menikah: " + isMarried);
 console.log("Hobi: " + hobbies.join(", "));
 console.log("Tinggi Badan: " + height);
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

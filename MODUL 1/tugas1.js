@@ -9,3 +9,8 @@ console.log(firstName);
 console.log(lastName);
 console.log(age);
 console.log(isMarried);
+
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

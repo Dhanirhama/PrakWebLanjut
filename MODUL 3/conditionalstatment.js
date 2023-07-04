@@ -10,3 +10,6 @@ if(language === "English") {
 }
 
 console.log(greeting);
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

@@ -9,3 +9,7 @@ const createWithUserLastName = (newLastName, user) => {
 
 const newUser = createWithUserLastName("Potter", user);
 console.log(newUser);
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

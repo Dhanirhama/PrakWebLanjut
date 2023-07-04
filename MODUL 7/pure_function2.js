@@ -12,3 +12,7 @@ console.log({
   person,
   newPerson,
 });
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

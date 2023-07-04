@@ -6,3 +6,7 @@ console.log(hitungLuasLingkaran(4));
 console.log(hitungLuasLingkaran(4));
 console.log(hitungLuasLingkaran(8));
 console.log(hitungLuasLingkaran(8));
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

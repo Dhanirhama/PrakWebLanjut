@@ -14,3 +14,7 @@ const car3 = new Car("BMW", "Black", 250, "b-1");
 console.log(car1);
 console.log(car2);
 console.log(car3);
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

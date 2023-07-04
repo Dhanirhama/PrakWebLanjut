@@ -7,3 +7,6 @@ console.log(myArray[4]);
 console.log(myArray[5]);
 
 console.log("Panjang Nilai myArray adalah : " + myArray.length + ".");
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

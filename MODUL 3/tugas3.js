@@ -14,3 +14,7 @@ if (score >= 90) {
 }
 
 console.log(result);
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

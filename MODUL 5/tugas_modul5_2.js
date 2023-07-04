@@ -11,3 +11,7 @@ function findIndex(array, number) {
 const numbers = [2, 4, 6, 8, 10];
 console.log(findIndex(numbers, 6));
 console.log(findIndex(numbers, 3));
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

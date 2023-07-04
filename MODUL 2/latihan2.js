@@ -9,3 +9,7 @@ console.log(hasilPerkalian);
 console.log(hasilPembagian);
 console.log(hasilPerkalian + hasilPembagian);
 console.log(hasilPembagian - hasilPerkalian);
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

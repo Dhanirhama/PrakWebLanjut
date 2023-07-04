@@ -10,3 +10,6 @@ for (let i = 1; i <= 500; i++) {
 
 // Menampilkan array bilangan genap
 console.log(evenNumber);
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

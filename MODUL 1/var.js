@@ -12,3 +12,7 @@ var y = 3,
   w = y + z;
 
 console.log(w);
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

@@ -7,3 +7,7 @@ if (x > 5) {
   let z = x + 2;
   console.log(z);
 }
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");

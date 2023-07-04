@@ -38,3 +38,7 @@ WhatsApp.sendMessage("Hello", "+6287766651861");
 WhatsApp.sendBroadcastMessage("Hello", ["+6285850323098", "+6282234567890"]);
 email.sendMessage("Hello", "dhanirhama1987@gmail.com");
 email.sendDelayedMessage("Hello", "dhanirhama1987@gmail.com", 3000);
+
+console.log("------------------------------------------------");
+console.log("Nama : Rama Dani");
+console.log("NIM : 20533353");
