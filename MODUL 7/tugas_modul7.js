@@ -1,22 +1,22 @@
 const books = [
   {
-    title: "Buku 1",
-    author: "Penulis 1",
+    title: "Laut Bercerita",
+    author: "Leila S. Chudori",
     sales: 1200000,
   },
   {
-    title: "Buku 2",
-    author: "Penulis 2",
+    title: "Bumi Manusia",
+    author: "Pramoedya Ananta Toer",
     sales: 800000,
   },
   {
-    title: "Buku 3",
-    author: "Penulis 3",
+    title: "Laskar Pelangi",
+    author: "Andrea Hirata",
     sales: 1500000,
   },
   {
-    title: "Buku 4",
-    author: "Penulis 4",
+    title: "Tenggelamnya Kapal Van Der Wijck",
+    author: "Abdul Malik Karim Amrullah (Buya Hamka)",
     sales: 2000000,
   },
 ];

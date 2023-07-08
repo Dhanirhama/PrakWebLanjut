@@ -6,12 +6,13 @@ const person = {
   name: "bobo",
 };
 
-const newPerson = createPersonWithAge(18, person);
+const newPerson = createPersonWithAge(18, {...person});
 
 console.log({
   person,
   newPerson,
 });
+
 
 console.log("------------------------------------------------");
 console.log("Nama : Rama Dani");
