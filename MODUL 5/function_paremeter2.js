@@ -11,3 +11,4 @@ console.log(sum(1, 2, 3, 4, 5));
 console.log("------------------------------------------------");
 console.log("Nama : Rama Dani");
 console.log("NIM : 20533353");
+console.log("Kelas : Teknik Informatika 6D");

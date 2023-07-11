@@ -1,4 +1,4 @@
-let score = 90;
+let score = 70;
 let result;
 
 if (score >= 90) {
@@ -18,3 +18,4 @@ console.log(result);
 console.log("------------------------------------------------");
 console.log("Nama : Rama Dani");
 console.log("NIM : 20533353");
+console.log("Kelas : Teknik Informatika 6D");
